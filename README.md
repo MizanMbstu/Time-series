@@ -10,6 +10,6 @@ AP = AirPassengers
 
 ```r
 class(AP)
+# 'ts' 
 ```
 
-'ts'
